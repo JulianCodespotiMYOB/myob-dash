@@ -1,10 +1,10 @@
 # 🚀 MYOB Dash
 
-## 🎯 Demo
-
 You can play MYOB Dash right in your browser at [juliancodespotimyob.github.io/myob-dash/](https://juliancodespotimyob.github.io/myob-dash/)
 
-![MYOB Dash Game Screenshot](assets/screenshot-placeholder.svg)
+![MYOB Dash Game](assets/game_screenshot.jpg)
+
+![MYOB Dash Game](assets/game_screenshot_2.jpg)
 
 > An exhilarating endless runner where you navigate the perils of tax obstacles while collecting coins in the MYOB universe!
 
@@ -16,7 +16,6 @@ You can play MYOB Dash right in your browser at [juliancodespotimyob.github.io/m
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Demo](#-demo)
 - [Getting Started](#-getting-started)
 - [How to Play](#-how-to-play)
 - [Game Mechanics](#-game-mechanics)
@@ -203,5 +202,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  Made with ❤️ for MYOB by the Dash Team
+  Made with ❤️ for MYOB by Julian!
 </p>
