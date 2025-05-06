@@ -1,0 +1,15 @@
+{
+  "name": "myob-dash",
+  "version": "1.0.0",
+  "description": "An endless runner game created with Phaser 3.",
+  "main": "src/game.js",
+  "scripts": {
+    "start": "http-server -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
