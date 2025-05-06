@@ -1,8 +1,10 @@
 # 🚀 MYOB Dash
 
-![MYOB Dash Game](assets/game_screenshot.jpg)
+## 🎯 Demo
 
-![MYOB Dash Game](assets/game_screenshot_2.jpg)
+You can play MYOB Dash right in your browser at [juliancodespotimyob.github.io/myob-dash/](https://juliancodespotimyob.github.io/myob-dash/)
+
+![MYOB Dash Game Screenshot](assets/screenshot-placeholder.svg)
 
 > An exhilarating endless runner where you navigate the perils of tax obstacles while collecting coins in the MYOB universe!
 
@@ -48,10 +50,6 @@
 - **Adaptive Asset Loading** - Gracefully handles missing assets with fallbacks
 - **Responsive Design** - Scales to fit different screen sizes
 - **Performance Optimized** - Object pooling for game entities
-
-## 🎯 Demo
-
-You can play MYOB Dash right in your browser at [myob-dash.example.com](https://myob-dash.example.com)
 
 ## 🚀 Getting Started
 
@@ -205,5 +203,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  Made with ❤️ for MYOB by Julian!
+  Made with ❤️ for MYOB by the Dash Team
 </p>
